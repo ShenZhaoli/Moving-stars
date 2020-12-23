@@ -1,0 +1,27 @@
+body {
+	margin:0;
+	padding:0;
+}
+
+.particle_star {
+  width:4px;
+  height:4px;
+  position:absolute;
+  background-color: #ffffff;
+  box-shadow:0px 0px 17px 4px wheat;
+  border-radius: 50%;
+}
+
+.container {
+	margin: 0 auto;
+	height: 100vh;
+	position: relative;
+	overflow: hidden;
+	background:url(../img/bg.jpg) no-repeat  0 100%;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-moz-background-size: cover;
+
+}
